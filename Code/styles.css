@@ -12,6 +12,14 @@
   width: 1500px;
 }
 
+#Img3{
+  height: 200px;
+  width: 200px;
+}
+
+.MyDiv{
+  background-color: #00A7E0
+}
 body {
     font-family: 'Allan';font-size: 22px;
 
