@@ -1,6 +1,6 @@
 #Img1{
   height: 523px;
-  width: 1500px
+  width: 1500px;
 }
 .Line_breaker{
   height: 200px;
@@ -10,15 +10,19 @@
 #Img2{
   height: 293px;
   width: 1500px;
+
 }
 
 #Img3{
-  height: 200px;
-  width: 200px;
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
 }
 
+
+
 .MyDiv{
-  background-color: #00A7E0
+  background-color: #00A7E0;
 }
 body {
     font-family: 'Allan';font-size: 22px;
