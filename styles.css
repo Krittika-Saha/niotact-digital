@@ -18,12 +18,44 @@
   width: 100px;
   border-radius: 50%;
 }
+ #Img4{
+   position: absolute;
+   left: 1061px;
 
-
-
-.MyDiv{
-  background-color: #00A7E0;
 }
+#Img5{
+  position: absolute;
+  height: 30px;
+  width: 30px;
+  border-left: 30px;
+}
+
+h1{
+  font-family: 'Aldrich';font-size: 22px;
+  color: white;
+
+}
+ p{
+   font-size: 20px;
+   color: white;
+ }
+#MyDiv{
+  background-color: #00A7E0;
+  height: 293px;
+  width: 1500px;
+}
+
+#MyDiv2{
+  background-color:black;
+  height: 340px;
+  width: 1500px;
+
+}
+#MyDiv4{
+  background-color: #00A7E0
+
+}
+#
 body {
     font-family: 'Allan';font-size: 22px;
 
