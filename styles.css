@@ -7,6 +7,10 @@
   height: 200px;
   colour: blue;
 }
+#Imgf{
+  height: 20px;
+  width: 20px;
+}
 
 #Img2{
   height: auto;
@@ -22,7 +26,7 @@
    position: absolute;
    left: 1061px;
    height: auto;
-   width: 0.146%;
+   width: 239px;
 
 
 }
@@ -36,7 +40,11 @@
 h1{
   font-family: 'Aldrich';font-size: 22px;
   color: white;
-
+}
+h2{
+  font-weight: bolder;
+  font-size: 50px;
+  color: white;
 }
  p{
    font-size: 20px;
@@ -48,7 +56,27 @@ h1{
   width: 100%;
 
 }
+.ContactDiv_Main{
+  background-color: #00A7E0;
+}
+.Gmail{
+  font-family: 'Aldrich';font-size: 22px;
+  color: white;
+  position: relative;
+  left: 100px
+}
+.Logo{
+  text-align: center;
+  position: relative;
+  top: -100px;
+}
 
+.Img_links{
+  width: auto;
+  position: absolute;
+  right: 600px;
+  background-color: #00A7E0;
+}
 #MyDiv2{
   background-color:black;
   height: 0.226%;
@@ -60,6 +88,14 @@ h1{
   background-color: #00A7E0;
   font-family: 'Aldrich';font-size: 22px;
 }
+#MyDiv3{
+  width:600px;
+  height: 153px;
+  position: relative;
+  bottom: 100px;
+}
+
+
 
 body {
     font-family: 'Allan';font-size: 22px;
@@ -72,32 +108,4 @@ body {
 .Header{
   color: #32D0D1;
   font-size: 60px;
-}
-
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: #008CBA;
-  position: fixed;
-  top: 0;
-  width: 100%;
-  font: Comic Sans MS;
-}
-
-li {
-  float: left;
-}
-
-li a {
-  display: block;
-  color: white;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-}
-
-li a:hover:not(.active) {
-  background-color: #2a0080;
 }
