@@ -56,6 +56,9 @@ h2{
   width: 100%;
 
 }
+.NewDiv{
+  background-image: url('background.png');
+}
 .ContactDiv_Main{
   background-color: #00A7E0;
 }
